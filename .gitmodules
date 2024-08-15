@@ -1,0 +1,9 @@
+[submodule "external/boost"]
+	path = external/boost
+	url = https://github.com/shadergz/boost.git
+[submodule "external/DevIL"]
+	path = external/DevIL
+	url = https://github.com/DentonW/DevIL.git
+[submodule "external/glm"]
+	path = external/glm
+	url = https://github.com/g-truc/glm.git
